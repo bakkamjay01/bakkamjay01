@@ -27,3 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakkamjay01&show_icons=true&locale=en" alt="bakkamjay01" /></p>
 
+![github-snake-dark](https://raw.githubusercontent.com/bakkamjay01/bakkamjay01/output/github-snake-dark.svg)

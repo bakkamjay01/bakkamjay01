@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Weather-forcast**
 
-- 👨‍💻 All of my projects are available at [https://bakkamjay01.github.io/jayesh-portfolio/](https://bakkamjay01.github.io/jayesh-portfolio/)--work in progress
+- 👨‍💻 All of my projects are available at [https://bakkamjay01.github.io/jayesh-portfolio/](https://bakkamjay01.github.io/JayeshBakkam-sPortfolio/?fbclid=PAT01DUAOS6ZxleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacYaGzt041exRSZM9LXVBUYFdRzKrhPfq-mUSGvMP9hjWwea85hswd8HWifAA_aem_TatXNWWrn4Xty0ZwCqvF6g)
 
 - 📫 How to reach me **bakkamjayesh382@gmail.com**
 

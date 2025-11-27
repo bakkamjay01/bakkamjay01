@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bakkamjay01" alt="bakkamjay01" /></a> </p>
 
-- 🔭 I’m currently working on **Weather-forcast**
+- 🔭 I’m currently working on **Aurajay**
 
 - 👨‍💻 All of my projects are available at [https://bakkamjay01.github.io/jayesh-portfolio/](https://bakkamjay01.github.io/JayeshBakkam-sPortfolio/?fbclid=PAT01DUAOS6ZxleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacYaGzt041exRSZM9LXVBUYFdRzKrhPfq-mUSGvMP9hjWwea85hswd8HWifAA_aem_TatXNWWrn4Xty0ZwCqvF6g)
 
